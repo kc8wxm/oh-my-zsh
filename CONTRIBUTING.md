@@ -121,4 +121,3 @@ Very nice!! :)
 
 Please have a look at the [Volunteer](https://github.com/robbyrussell/oh-my-zsh/wiki/Volunteers)
 page for instructions on where to start and more.
-
