@@ -15,6 +15,9 @@ Alias | Ember-CLI command
 **eg** | *ember generate*
 **eh** | *ember help*
 **ein** | *ember init*
+**eia** | *ember install:addon*
+**eib** | *ember install:bower*
+**ein** | *ember install:npm*
 **ei** | *ember install*
 **et** | *ember test*
 **eu** | *ember update*
